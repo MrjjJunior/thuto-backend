@@ -1,0 +1,25 @@
+# Django & API
+Django>=4.2.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.0.0
+python-dotenv>=1.0.0
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+pypdf>=3.15.0
+pdfplumber>=0.9.0
+
+# Embeddings & Vector Store
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+# faiss-gpu>=1.7.4  # Uncomment if you have GPU
+
+# LLM Integration
+anthropic>=0.25.0
+
+# Utilities
+numpy>=1.24.0
+tiktoken>=0.5.0
+langchain>=0.1.0
+langchain-community>=0.0.20
